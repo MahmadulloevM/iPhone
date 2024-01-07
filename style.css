@@ -79,6 +79,9 @@ nav{
     margin-left: 41%;
     cursor: pointer;
 }
+.secondall{
+   margin: 0 auto;
+}
 h1{
     padding-left: 45%;
     padding-top: 5%;
@@ -109,7 +112,8 @@ h1{
     display: flex;
 }
 .fourth{
-    
+  
+  
 }
 .fourth h1{
     text-align: center;
@@ -131,4 +135,14 @@ h1{
     margin: 0 auto;
     max-width: 1200px;
     justify-content: space-between;
+}
+
+.fifth1 img{
+   
+}
+.fifthall{
+    display: flex;
+    margin-top: 15%;
+    margin-left: 19%;
+    
 }
