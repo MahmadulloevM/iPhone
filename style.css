@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8%;
+    width: 1920px;
+    height: 113px;
+}
+
+header .logo{
+    font-size: 20px;
+    font-weight: 900;
+    padding-right: 10%;
+}
+
+header nav ul li {
+    position: relative;
+    float: left;
+ 
+    
+}
+header nav ul li a {
+        padding: 15px;
+        color:gray;
+        font-size:22px;
+        font-family: inter;
+        display: block;
+        
+}
+header h2{
+    color: gray;
+    padding-right: 15%;
+    font-family: inter;
+}
+nav{
+ padding-left: 15%;
+}
+
+.second{
+    background-color:#F5F5F7;
+
+    
+}
+.second img{
+    padding-left: 25%;
+    padding-top: 3%;
+}
+.second h1{
+    margin-top: 5%;
+    padding-left: 35%;
+    font-size: 64px;
+    color: #490E84;
+}
+.second button{
+    padding: 20px 100px;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    background-color:#490E84;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 2%;
+    margin-left: 41%;
+    cursor: pointer;
+}
+h1{
+    padding-left: 45%;
+    padding-top: 5%;
+    color:#717171;
+}
+.third p{
+    width: 56%;
+    margin-left: 20%;
+    font-size: 14px;
+    text-align: left; 
+}
+.third h3{
+    width: 58.9%;
+    margin-left: 20%;
+    font-size: 20px;
+    text-align: left;
+}
+.thirdall img{
+    width: 350px;
+    height: 370px;
+    margin-right: 22%;
+    
+}
+.third{
+    margin-left: 10%;
+}
+.thirdall{
+    display: flex;
+}
+.fourth{
+    
+}
+.fourth h1{
+    padding-left: 40%;
+    font-size: 32px;
+}
+.fourth2{
+    width: 240px;
+    height: 320px;
+}
+.fourth2 h3{
+    text-align: center;
+}
+.fourth2 p{
+    text-align: center;
+}
+.fourthimg{
+    display:flex;
+    margin: 0 auto;
+    max-width: 1200px;
+    justify-content: space-between;
+}
