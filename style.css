@@ -17,8 +17,9 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 0 8%;
-    width: 1920px;
+    width: 100%;
     height: 113px;
+
 }
 
 header .logo{
@@ -111,8 +112,9 @@ h1{
     
 }
 .fourth h1{
-    padding-left: 40%;
+    text-align: center;
     font-size: 32px;
+    margin-bottom: 50px;
 }
 .fourth2{
     width: 240px;
