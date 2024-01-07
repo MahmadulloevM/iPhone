@@ -144,5 +144,27 @@ h1{
     display: flex;
     margin-top: 15%;
     margin-left: 19%;
+}
+.last nav ul a{
+    color: gray;
+    padding-left: 15%;
     
+}
+.last {
+    background: #000000;
+    padding: 15px;
+    color:gray;
+    font-size:22px;
+    font-family: inter;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15%;  
+}
+.last h2{
+    color: gray;
+    font-size: 25px;
+}
+.last h2{
+    padding-left: 5%;
+    align-items: center;
 }
